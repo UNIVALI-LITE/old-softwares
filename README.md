@@ -13,3 +13,6 @@ some old things
 * [Portugol Studio Recursos](https://mega.nz/#!Nc1SAbSL!2vEKXznfntHOMHOzoU8HNh98JicVmHt0p_tkWFYQjWE)
 * [Portugol Útils](https://mega.nz/#!ocEwwSLR!UNhWFVEEAzTzEWb2mCelwD4M5dsI5LFK4s7vGtMW1Fs)
 
+## Sites
+
+* [Site Portugol Studio](https://mega.nz/#!sYsBmLoT!Ch4_8HEQ5mLMu-ZeRenjZaJ82Rr_b2vdeHbc7G2mS80)
